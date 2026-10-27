@@ -1,0 +1,7 @@
+Incident Report Requirements — Website Outage
+1. Include incident start and end times, or mark unknown times clearly.
+2. Describe user impact.
+3. State the observed symptoms and evidence.
+4. Explain the confirmed root cause or mark it as unconfirmed.
+5. List recovery steps taken.
+6. Define follow-up actions with an owner or mark the owner as unassigned.

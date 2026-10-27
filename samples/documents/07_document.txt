@@ -1,0 +1,11 @@
+Event Registration API — Draft
+
+Users can register for an event and view their registrations. The backend is built with Node.js and Express.
+
+Endpoints
+POST /register creates a registration. GET /registrations lists registrations.
+
+Authentication
+Users must sign in before registering.
+
+The API checks that the event exists.

@@ -1,0 +1,14 @@
+Resume Draft
+
+Profile
+Computer Science student interested in software development.
+
+Education
+B.Tech in Computer Science, Example University.
+
+Projects
+Farm Market App — React, Node.js, MongoDB. Worked on product listings and user login.
+Lecture Notes Tool — Python, FastAPI, React. Built transcript summarization and search.
+
+Skills
+C++, Python, JavaScript, SQL.

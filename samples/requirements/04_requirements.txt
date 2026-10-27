@@ -1,0 +1,7 @@
+Internship Application Checklist
+1. Include a short profile summary.
+2. Include education with degree, institution, and expected graduation date.
+3. Include at least two projects with personal contribution and technologies.
+4. Include technical skills grouped by category.
+5. Include links to coding profiles or portfolio if available.
+6. Do not include unsupported claims or invented experience.

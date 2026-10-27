@@ -1,0 +1,3 @@
+Abstract
+
+Water is important for agriculture, but manual irrigation can waste water. This project proposes a smart irrigation system using soil-moisture readings and weather information. A controller checks sensor values and decides when to switch on a pump. The dashboard displays recent readings and pump state. The main contribution is combining sensor-based decisions with a simple web dashboard for small farms. Evaluation is planned but has not yet been completed, so water savings and crop-yield improvements have not been measured. The prototype will be tested using simulated sensor readings before field testing.

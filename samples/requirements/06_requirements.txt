@@ -1,0 +1,7 @@
+Research Abstract Requirements — Smart Irrigation
+1. State the problem and research objective.
+2. Describe the method or system used.
+3. Include quantitative results or clearly state that evaluation is not yet complete.
+4. State the main contribution.
+5. Keep the abstract between 150 and 250 words.
+6. Do not claim results that have not been measured.

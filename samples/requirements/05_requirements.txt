@@ -1,0 +1,8 @@
+Business Proposal Requirements — Cafeteria Preorder System
+1. Describe the customer problem.
+2. Identify users and stakeholders.
+3. Explain the proposed solution and workflow.
+4. Include an implementation timeline with phases.
+5. Estimate costs or explicitly mark costs as pending validation.
+6. Define risks and mitigation actions.
+7. Define how success will be measured.

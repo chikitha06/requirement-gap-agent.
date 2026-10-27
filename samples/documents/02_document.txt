@@ -1,0 +1,16 @@
+Library Seat Booking — SRS Draft
+
+Users
+Students can reserve a library seat. Librarians can view bookings.
+
+Functional requirements
+A student can view seats and reserve one. A student can cancel a booking. Librarians can close a seat temporarily.
+
+Performance
+The system should be fast and easy to use.
+
+Data
+The system stores students, seats, and bookings.
+
+Security
+Users log in with an email address and password.

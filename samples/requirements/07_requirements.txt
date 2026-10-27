@@ -1,0 +1,7 @@
+API Design Requirements — Event Registration API
+1. List endpoints and HTTP methods.
+2. Define request and response examples.
+3. Specify validation rules.
+4. Define authentication and authorization.
+5. Describe error responses and status codes.
+6. Explain how duplicate registrations are prevented.

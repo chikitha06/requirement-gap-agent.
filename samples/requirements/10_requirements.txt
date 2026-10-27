@@ -1,0 +1,8 @@
+Final-Year Project Evaluation Requirements — Study Planner
+1. State the problem and target audience.
+2. Describe the agent's tools and the decision loop.
+3. Explain how missing information is handled.
+4. Include at least 10 test cases covering normal and failure scenarios.
+5. Report quantitative evaluation metrics.
+6. Discuss limitations and ethical/privacy concerns.
+7. Describe deployment and logging.

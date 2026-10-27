@@ -1,0 +1,16 @@
+Study Planner Agent — Project Report Draft
+
+Problem
+Students often struggle to plan revision across several subjects and deadlines. The intended users are university students.
+
+Agent design
+The agent reads a student's tasks and proposes a study schedule. It can use a calendar lookup tool and a task-saving tool. After checking the result of a tool call, it decides whether it needs another action.
+
+Missing information
+If a deadline or estimated task duration is missing, the agent asks the student instead of guessing.
+
+Testing
+We tested the agent with a student who entered three tasks and two deadlines. It produced a schedule.
+
+Deployment
+The app runs locally.

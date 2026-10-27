@@ -1,0 +1,3 @@
+Password Reset Guide
+
+Use password reset if you cannot sign in. Open the login page and select Forgot Password. Enter the email address for your account. Open the reset email and follow its link. Choose a new password and return to the login page. You should see a confirmation message when the password is changed.

@@ -1,0 +1,7 @@
+Software Requirements Specification (SRS) Requirements — Library Seat Booking
+1. Identify user roles.
+2. State functional requirements.
+3. State at least three non-functional requirements with measurable targets.
+4. Define error cases and expected behavior.
+5. Describe data entities and relationships.
+6. Define authentication and authorization rules.

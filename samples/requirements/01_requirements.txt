@@ -1,0 +1,7 @@
+Project Proposal Requirements — Campus Lost-and-Found App
+1. State the problem and target users.
+2. List at least three core features.
+3. Define measurable success criteria.
+4. Describe the technology stack.
+5. Include a testing plan with test cases.
+6. Mention privacy and security risks and how they will be reduced.

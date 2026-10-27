@@ -1,0 +1,16 @@
+Website Outage — Incident Report
+
+Summary
+The website was unavailable for some users.
+
+Impact
+Some users saw errors while opening the dashboard. The number of affected users is not yet known.
+
+Symptoms
+Monitoring showed a rise in HTTP 500 responses.
+
+Cause
+The database may have been overloaded, but this has not been confirmed.
+
+Recovery
+The service was restarted and error rates returned to normal.

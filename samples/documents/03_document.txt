@@ -1,0 +1,13 @@
+Plant Disease Classifier — Report Draft
+
+Objective
+This project aims to classify plant leaf images into healthy and diseased categories.
+
+Model
+We trained a convolutional neural network using Python. Images were resized before training.
+
+Results
+The model performed well in our tests and gave useful predictions.
+
+Future work
+We may support more plant types in the future.

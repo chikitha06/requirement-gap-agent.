@@ -1,0 +1,16 @@
+Cafeteria Preorder System — Business Proposal
+
+Problem
+Students face long queues during lunch breaks.
+
+Users
+Students, cafeteria staff, and the campus administrator.
+
+Solution
+Students choose menu items in an app and submit an order. Staff see incoming orders and mark them ready for pickup.
+
+Timeline
+We will build the system during the semester.
+
+Success
+The system should reduce waiting time.

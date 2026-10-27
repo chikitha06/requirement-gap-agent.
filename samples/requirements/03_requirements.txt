@@ -1,0 +1,7 @@
+Project Report Requirements — Plant Disease Classifier
+1. Explain the objective.
+2. Describe the dataset source and size.
+3. Explain the model and training setup.
+4. Report measured results using suitable metrics.
+5. Discuss at least two limitations.
+6. Provide reproducibility details such as software versions or random seed.

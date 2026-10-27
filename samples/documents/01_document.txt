@@ -1,0 +1,13 @@
+Campus Lost-and-Found App — Proposal
+
+Problem
+Students often lose water bottles, ID-card holders, books, and other items around campus. They do not know where to ask whether an item was found. The app is intended for students and campus staff.
+
+Features
+Users can post a lost item. Users can post a found item. Users can search posts by category and location.
+
+Technology
+The frontend will use React. The backend will use FastAPI and SQLite.
+
+Testing
+We will test the login page and item search manually.

@@ -1,0 +1,7 @@
+User Guide Requirements — Password Reset
+1. Explain when to use the feature.
+2. Provide numbered steps in order.
+3. Explain expected confirmation messages.
+4. Include at least two troubleshooting cases.
+5. Warn users never to share reset links or passwords.
+6. Provide a support contact placeholder if no real contact is known.
