@@ -1,9 +1,4 @@
-.venv/
-venv/
-__pycache__/
-*.py[cod]
 .env
-.env.*
-!.env.example
-.streamlit/secrets.toml
-.DS_Store
+.venv/
+__pycache__/
+.pytest_cache/
